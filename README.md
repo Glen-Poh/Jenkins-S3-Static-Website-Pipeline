@@ -80,7 +80,7 @@ If you want your pipeline to automatically trigger when there's an update to the
 
 In the Pipeline Definition section, choose 'Pipeline script from SCM', then enter the repository URL.
 
-######################## Placeholder ###################################
+<img src="images/8_jenkins_repo.png" alt="image" style="width:600px;"/>
 
 In the 'Branch Specifier' field, change it to */main, and in the 'Script Path' field, enter Jenkinsfile.
 
